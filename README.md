@@ -63,4 +63,4 @@ This project is a **sell-platform website** built with **full-stack development*
 
 ## Summary
 
-This **sell-platform website** integrates several modern tools from the **MERN stack**, ensuring a secure, responsive, and user-friendly platform for users to list and manage products they wish to sell. With **React**, **Tailwind CSS**, **Zustand**, and other powerful technologies, the platform offers a seamless experience for both administrators and customers alike. The combination of secure backend tools, dynamic frontend features, and modern styling creates a well-rounded solution for e-commerce.
+This **sell-platform website** integrates several modern tools from the **MERN stack**, ensuring a responsive, and user-friendly platform for users to list and manage products they wish to sell. With **React**, **Tailwind CSS**, **Zustand**, and other powerful technologies. The combination of secure backend tools, dynamic frontend features, and modern styling creates a well-rounded solution for e-commerce.
